@@ -1,0 +1,7 @@
+Flickcast is an iOS App to browse the most interesting photos of the day from Flickr. A
+couple of notable features:
+
+- Download progressively higher resolutin image appropriate for the device size.
+- Ability to save photos on the device.
+- Ability to control the slide show speed from settings.
+- Use teh flick gesture to navigate back and forth.
